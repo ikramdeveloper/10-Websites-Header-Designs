@@ -2,7 +2,7 @@
 
 > ##### Automotive Car
 >
-> ![automative-car-header-design](https://imgur.com/xqP0FiM)
+> ![automative-car-header-design](https://ibb.co/NyKNh1Q)
 
 > ##### Restaurant Food
 >
