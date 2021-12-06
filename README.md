@@ -1,42 +1,42 @@
-# 10 Websites - Design to HTML/CSS
+# 10 Websites Header Designs
 
-> ##### Automotive Car
+> #### Automotive Car
 >
 > ![automative-car-header-design](https://i.imgur.com/xqP0FiM.png)
 
-> ##### Restaurant Food
+> #### Restaurant Food
 >
 > ![restaurant-website-header](https://i.imgur.com/HJ6yBHs.png)
 
-> ##### Pluralsight Login
+> #### Pluralsight Login
 >
 > ![pluralsight-login-design](https://i.imgur.com/crOhgig.png)
 
-> ##### Fashion Clothes
+> #### Fashion Clothes
 >
 > ![fashion-website-header-design](https://i.imgur.com/N7FCrV0.png)
 
-> ##### Tourism Landscape
+> #### Tourism Landscape
 >
 > ![tourism-landscape-design](https://i.imgur.com/kbBJJN3.png)
 
-> ##### News Magazine
+> #### News Magazine
 >
 > ![newspaper-website-header-design](https://i.imgur.com/gyZWuas.png)
 
-> ##### Legal Law Firm
+> #### Legal Law Firm
 >
 > ![legal-law-website-header-design](https://i.imgur.com/7v96NhW.png)
 
-> ##### TV Video Streaming
+> #### TV Video Streaming
 >
 > ![streaming-header-design](https://i.imgur.com/Awptl7f.png)
 
-> ##### Technology IT
+> #### Technology IT
 >
 > ![it-comapny-header-design](https://i.imgur.com/lYkzuOD.png)
 
-> ##### Portfolio Resume
+> #### Portfolio Resume
 >
 > ![portfolio-header-design](https://i.imgur.com/t1zmLWE.png)
 
@@ -45,3 +45,7 @@
 HTML
 CSS
 JavaScript
+
+###### Note:
+
+This is for practicing, learning and helping in creating websites. Maybe you will find similar code or design on the internet. But this is my own.
