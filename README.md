@@ -1,18 +1,47 @@
 # 10 Websites - Design to HTML/CSS
 
-Here are the websites:
+> ##### Automotive Car
+>
+> ![automative-car-header-design](https://imgur.com/xqP0FiM)
 
--   Automotive Car
--   Restaurant Food
--   Shoes Footwear
--   Fashion Clothes
--   Tourism Landscape
--   News Magazine
--   Legal Law Firm
--   TV Video Streaming
--   Technology IT
--   Portfolio Resume
+> ##### Restaurant Food
+>
+> ![restaurant-website-header](https://imgur.com/HJ6yBHs)
 
-Check them out [here](https://10websites-design-to-html-css.netlify.app).
+> ##### Pluralsight Login
+>
+> ![pluralsight-login-design](https://imgur.com/crOhgig)
 
-YT Video (https://www.youtube.com/watch?v=Rz-rey4Q1bw)
+> ##### Fashion Clothes
+>
+> ![fashion-website-header-design](https://imgur.com/N7FCrV0)
+
+> ##### Tourism Landscape
+>
+> ![tourism-landscape-design](https://imgur.com/kbBJJN3)
+
+> ##### News Magazine
+>
+> ![newspaper-website-header-design](https://imgur.com/gyZWuas)
+
+> ##### Legal Law Firm
+>
+> ![legal-law-website-header-design](https://imgur.com/7v96NhW)
+
+> ##### TV Video Streaming
+>
+> ![streaming-header-design](https://imgur.com/Awptl7f)
+
+> ##### Technology IT
+>
+> ![it-comapny-header-design](https://imgur.com/lYkzuOD)
+
+> ##### Portfolio Resume
+>
+> ![portfolio-header-design](https://imgur.com/t1zmLWE)
+
+### Languages:
+
+HTML
+CSS
+JavaScript
