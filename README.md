@@ -1,44 +1,26 @@
 # 10 Websites Header Designs
 
-> #### Automotive Car
->
-> ![automative-car-header-design](https://i.imgur.com/xqP0FiM.png)
+#### Images Links
 
-> #### Restaurant Food
->
-> ![restaurant-website-header](https://i.imgur.com/HJ6yBHs.png)
+> [automative-car-header-design](https://i.imgur.com/xqP0FiM.png)
 
-> #### Pluralsight Login
->
-> ![pluralsight-login-design](https://i.imgur.com/crOhgig.png)
+> [restaurant-website-header](https://i.imgur.com/HJ6yBHs.png)
 
-> #### Fashion Clothes
->
-> ![fashion-website-header-design](https://i.imgur.com/N7FCrV0.png)
+> [pluralsight-login-design](https://i.imgur.com/crOhgig.png)
 
-> #### Tourism Landscape
->
-> ![tourism-landscape-design](https://i.imgur.com/kbBJJN3.png)
+> [fashion-website-header-design](https://i.imgur.com/N7FCrV0.png)
 
-> #### News Magazine
->
-> ![newspaper-website-header-design](https://i.imgur.com/gyZWuas.png)
+> [tourism-landscape-design](https://i.imgur.com/kbBJJN3.png)
 
-> #### Legal Law Firm
->
-> ![legal-law-website-header-design](https://i.imgur.com/7v96NhW.png)
+> [newspaper-website-header-design](https://i.imgur.com/gyZWuas.png)
 
-> #### TV Video Streaming
->
-> ![streaming-header-design](https://i.imgur.com/Awptl7f.png)
+> [legal-law-website-header-design](https://i.imgur.com/7v96NhW.png)
 
-> #### Technology IT
->
-> ![it-comapny-header-design](https://i.imgur.com/lYkzuOD.png)
+> [streaming-header-design](https://i.imgur.com/Awptl7f.png)
 
-> #### Portfolio Resume
->
-> ![portfolio-header-design](https://i.imgur.com/t1zmLWE.png)
+> [it-comapny-header-design](https://i.imgur.com/lYkzuOD.png)
+
+> [portfolio-header-design](https://i.imgur.com/t1zmLWE.png)
 
 ### Languages:
 
